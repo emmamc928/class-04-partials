@@ -1,5 +1,5 @@
 <header>
-    <h1 id="title">TODO: - INFO 2300</h1>
+    <h1 id="title"> <?php echo $title;?>- INFO 2300</h1>
 
     <nav id="menu">
         <ul>

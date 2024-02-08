@@ -1,3 +1,4 @@
+<?php $title = "Citations " ?>
 <!DOCTYPE html>
 <html lang="en">
 
